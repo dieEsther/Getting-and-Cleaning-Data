@@ -1,4 +1,4 @@
-Datasource
+**Datasource**
 The original dataset is called “Human Activity Recognition Using Smartphones Data Set“ which can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 The README of the original data set explains the features in detail:
 
@@ -12,7 +12,7 @@ These signals were used to estimate variables of the feature vector for each pat
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 
-Feature Selection
+**Feature Selection**
 For the purpose of a course project for Coursera “Getting and Cleaning Data“ specific features of the original dataset were selected and modified.
 
 Column 1: subject
