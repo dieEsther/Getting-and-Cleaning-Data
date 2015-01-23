@@ -12,7 +12,7 @@ These signals were used to estimate variables of the feature vector for each pat
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 
-#####Feature Selection####
+####Feature Selection####
 For the purpose of a course project for Coursera “Getting and Cleaning Data“ specific features of the original dataset were selected and modified.
 
 **Column 1:** subject
@@ -25,8 +25,8 @@ Descriptive names for 6 different activities performed by the subjects: WALKING,
 
 **Columns 3-48:** mean() and meanFreq()
 Mean values and weighted average of the frequency components to obtain a mean frequency for the following original measurements:
-tBodyAcc-XYZ
-tGravityAcc-XYZ
+- tBodyAcc-XYZ
+- tGravityAcc-XYZ
 tBodyAccJerk-XYZ
 tBodyGyro-XYZ
 tBodyGyroJerk-XYZ
